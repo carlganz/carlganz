@@ -7,3 +7,5 @@ I am a data scientist with extensive experience with R, survey statistics, publi
 - 💬 Ask me about consulting on scalable Shiny development
 - 📫 How to reach me: carlganz (at) gmail (dot) com
 - 😄 Pronouns: he/him/his
+
+You can also checkout [my website](www.carlganz.com)
