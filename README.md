@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a data scientist with extensive experience with R, survey statistics, public health and medical research. 
+I am a data scientist with extensive experience with R, survey statistics, public health and healthcare. 
 
 - 🔭 I’m currently working on Shiny apps, and insurance claims data
 - 🌱 I’m currently learning about ADA compliance for dashboards
@@ -8,4 +8,4 @@ I am a data scientist with extensive experience with R, survey statistics, publi
 - 📫 How to reach me: carlganz (at) gmail (dot) com
 - 😄 Pronouns: he/him/his
 
-You can also checkout [my website](www.carlganz.com)
+You can also checkout [my website](www.carlganz.com) or my new daily fantasy sports startup [SureShot](www.sureshotfantasy.com)
