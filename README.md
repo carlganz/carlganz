@@ -8,4 +8,4 @@ I am a data scientist with extensive experience with R, survey statistics, publi
 - 📫 How to reach me: hello (at) carlganz (dot) com
 - 😄 Pronouns: he/him/his
 
-You can also checkout [my website](www.carlganz.com) or my new daily fantasy sports startup [SureShot](www.sureshotfantasy.com)
+You can also checkout [my website](www.carlganz.com) or my [AI insurance broker](www.fennel.insure)
